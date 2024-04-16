@@ -1,31 +1,11 @@
 
-# Sobre Mim
+# Checkout HTML e CSS
 
-Olá! 👋 Meu nome é Guilherme, sou Analista de desenvolvimento Jr . interessado em Desenvolvimento, e estou constantemente aprendendo e explorando novas tecnologias.
+Este é um simples checkout feito em HTML e CSS. Ele foi criado como um projeto de aprendizado para praticar habilidades básicas de design e desenvolvimento web.
 
-## O Que Eu Faço
+## Funcionalidades
 
-- 💻 Atualmente trabalho como Analista de desenvolvimento Jr.
-- 🌱 Estou aprendendo C#, ASP.NET, JavaScript entre outros.
-- 🔍 Estou procurando oportunidades de colaboração em projetos interessantes.
+- Página de checkout com campos básicos para informações de entrega e pagamento.
+- Design responsivo que se adapta a diferentes tamanhos de tela.
+- Estilo limpo e minimalista para uma experiência de usuário agradável.
 
-## Meus Interesses
-
-Aqui estão algumas das coisas que me interessam:
-
-- Desenvolvimento de jogos
-- Inteligência Artificial e Machine Learning
-- Desenvolvimento de aplicativos móveis
-- Segurança da Informação
-- Design de interfaces de usuário (UI/UX)
-- Realidade Virtual e Realidade Aumentada
-- Ciência de Dados e Análise de Big Data
-
-## Entre em Contato
-
-Se você quiser entrar em contato, você pode me encontrar nas seguintes plataformas:
-
-- [LinkedIn](linkedin.com/in/galmeid7)
-- [x](https://x.com/Guilhermecrk?t=Rs-UEykGwF2ITk8iPosjOA&s=09)
-
-Fique à vontade para explorar meus repositórios e entrar em contato!
